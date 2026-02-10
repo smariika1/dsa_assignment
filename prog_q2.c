@@ -57,7 +57,6 @@ void infixToPostfix(char* infix, char* postfix) {
     postfix[j] = '\0';
 }
 
-
 int evaluate(char* postfix) {
     IntStack s;
     initI(&s);
