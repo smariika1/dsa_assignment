@@ -66,6 +66,7 @@ void printGraph(Graph* g) {
     }
 }
 
+
 int main() {
     Graph g;
     initGraph(&g, 6);
