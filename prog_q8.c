@@ -80,6 +80,7 @@ void printArray(int arr[], int n) {
     printf("\n");
 }
 
+
 int main() {
     int n, choice;
     printf("Enter number of elements: ");
