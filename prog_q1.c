@@ -38,6 +38,7 @@ bool isBalanced(char* expr) {
     return isEmpty(&s);
 }
 
+
 int main() {
     char* tests[] = {
         "a + (b - c) * (d",

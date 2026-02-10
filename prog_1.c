@@ -13,6 +13,7 @@ char pop() {
     return stack[top--];
 }
 
+
 int isMatching(char a, char b) {
     if (a == '(' && b == ')') return 1;
     if (a == '{' && b == '}') return 1;
