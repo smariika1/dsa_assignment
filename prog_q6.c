@@ -37,6 +37,7 @@ void printArray(int arr[], int n) {
     printf("\n");
 }
 
+
 int main() {
     int arr1[] = {12, 11, 13, 5, 6, 7};
     int arr2[] = {12, 11, 13, 5, 6, 7};
