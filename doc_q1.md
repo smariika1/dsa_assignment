@@ -1,7 +1,7 @@
 # Q1: Write a program to check if any given mathematical expression has balanced number of parentheses or not? 
 
 ## Data Structures
-- **Stack**: Array-based with top pointer for storing opening brackets
+- **Stack**: Array-based with top pointer for storing opening brackets.
 
 ## Key Functions
 1. **push/pop**: Standard stack operations - O(1)
