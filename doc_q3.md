@@ -1,7 +1,7 @@
 # Q3: Write and Implement the reverse traversal algorithm in the the linked list. Write main() to demonstrate the use of the function.
 
 ## Data Structure
-- **Node**: Contains data and next pointer
+- **Node**: Contains data and next pointer.
 
 ## Key Functions
 1. **printReverseRecursive**: Uses recursion stack to reverse
